@@ -16,8 +16,11 @@
 輸入「求: 職系」 即可查詢職系職缺
 例如 => 「求：人事行政」
 ![ask](https://github.com/spreered/ask-job/blob/master/readme_img/askgod3.png)
+
 加上逗號可以搜尋地區
+
 例如 => 「求：一般行政,臺北」
+
 # update database
 you can manually update db by runing _/lib/tasks/dev.rake_
 ```bash
